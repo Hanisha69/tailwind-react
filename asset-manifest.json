@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-react/static/css/main.364095c9.css",
+    "main.js": "/tailwind-react/static/js/main.a118d12c.js",
+    "static/js/787.633816a4.chunk.js": "/tailwind-react/static/js/787.633816a4.chunk.js",
+    "index.html": "/tailwind-react/index.html",
+    "main.364095c9.css.map": "/tailwind-react/static/css/main.364095c9.css.map",
+    "main.a118d12c.js.map": "/tailwind-react/static/js/main.a118d12c.js.map",
+    "787.633816a4.chunk.js.map": "/tailwind-react/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364095c9.css",
+    "static/js/main.a118d12c.js"
+  ]
+}
